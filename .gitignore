@@ -1,0 +1,7 @@
+Livrables_TD1/
+**/node_modules/
+**/dist/
+*.zip
+*.log
+.DS_Store
+Thumbs.db
