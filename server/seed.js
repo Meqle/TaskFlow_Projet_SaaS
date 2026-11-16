@@ -26,8 +26,8 @@ async function seedIfEmpty() {
       companyId: null,
       email: config.adminEmail.toLowerCase(),
       passwordHash: adminHash,
-      firstName: 'Lukas',
-      lastName: 'Admin',
+      firstName: 'Admin',
+      lastName: 'Plateforme',
       role: 'super_admin',
       active: true
     });
