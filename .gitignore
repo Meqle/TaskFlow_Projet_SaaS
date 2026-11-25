@@ -5,3 +5,6 @@ Livrables_TD1/
 *.log
 .DS_Store
 Thumbs.db
+
+
+.env
